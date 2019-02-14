@@ -1,0 +1,15 @@
+{
+  "name": "node-task",
+  "version": "1.0.0",
+  "description": "Weather and time application based on location",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Ritviz Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "typescript": "^3.3.3"
+  }
+}
